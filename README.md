@@ -12,7 +12,7 @@ Dokter App merupakan sebuah project dari kursus **BuildWithAngga** dengan menggu
 ---
 ## Tools
 Tools yang digunakan :
-### Food Market React Native
+### Dokter App React Native
 1. [Node.js](https://nodejs.org/)
 2. [Npx](https://www.npmjs.com/package/npx)
 3. [React Native](https://reactnative.dev/)
@@ -23,6 +23,7 @@ Tools yang digunakan :
 4. [Github](https://github.com/)
 5. [Java JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 6. [Android SDK](https://developer.android.com/studio)
+7. [Firebase](https://console.firebase.google.com)
 ---
 ## How to Use
 1. Install package
